@@ -1,0 +1,33 @@
+C:\Users\Tanulo\Desktop\KGZS\Asztali alkalmazások\karacsonyGUI\karacsonyGUI\bin\Debug\karacsonyGUI.exe.config
+C:\Users\Tanulo\Desktop\KGZS\Asztali alkalmazások\karacsonyGUI\karacsonyGUI\bin\Debug\karacsonyGUI.exe
+C:\Users\Tanulo\Desktop\KGZS\Asztali alkalmazások\karacsonyGUI\karacsonyGUI\bin\Debug\karacsonyGUI.pdb
+C:\Users\Tanulo\Desktop\KGZS\Asztali alkalmazások\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.csproj.AssemblyReference.cache
+C:\Users\Tanulo\Desktop\KGZS\Asztali alkalmazások\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\Desktop\KGZS\Asztali alkalmazások\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.Form1.resources
+C:\Users\Tanulo\Desktop\KGZS\Asztali alkalmazások\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.Properties.Resources.resources
+C:\Users\Tanulo\Desktop\KGZS\Asztali alkalmazások\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.csproj.GenerateResource.cache
+C:\Users\Tanulo\Desktop\KGZS\Asztali alkalmazások\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\Desktop\KGZS\Asztali alkalmazások\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.exe
+C:\Users\Tanulo\Desktop\KGZS\Asztali alkalmazások\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.pdb
+C:\Users\Kiss családi\Desktop\KANDÓ\2.Tanév\ASZTALI ALKALMAZÁSOK\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.csproj.AssemblyReference.cache
+C:\Users\Kiss családi\Desktop\KANDÓ\2.Tanév\ASZTALI ALKALMAZÁSOK\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kiss családi\Desktop\KANDÓ\2.Tanév\ASZTALI ALKALMAZÁSOK\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.Form1.resources
+C:\Users\Kiss családi\Desktop\KANDÓ\2.Tanév\ASZTALI ALKALMAZÁSOK\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.Properties.Resources.resources
+C:\Users\Kiss családi\Desktop\KANDÓ\2.Tanév\ASZTALI ALKALMAZÁSOK\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.csproj.GenerateResource.cache
+C:\Users\Kiss családi\Desktop\KANDÓ\2.Tanév\ASZTALI ALKALMAZÁSOK\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.csproj.CoreCompileInputs.cache
+C:\Users\Kiss családi\Desktop\KANDÓ\2.Tanév\ASZTALI ALKALMAZÁSOK\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.exe
+C:\Users\Kiss családi\Desktop\KANDÓ\2.Tanév\ASZTALI ALKALMAZÁSOK\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.pdb
+C:\Users\Kiss családi\Desktop\KANDÓ\2.Tanév\ASZTALI ALKALMAZÁSOK\karacsonyGUI\karacsonyGUI\bin\Debug\karacsonyGUI.exe.config
+C:\Users\Kiss családi\Desktop\KANDÓ\2.Tanév\ASZTALI ALKALMAZÁSOK\karacsonyGUI\karacsonyGUI\bin\Debug\karacsonyGUI.exe
+C:\Users\Kiss családi\Desktop\KANDÓ\2.Tanév\ASZTALI ALKALMAZÁSOK\karacsonyGUI\karacsonyGUI\bin\Debug\karacsonyGUI.pdb
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsonyGUI\karacsonyGUI\bin\Debug\karacsonyGUI.exe.config
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsonyGUI\karacsonyGUI\bin\Debug\karacsonyGUI.exe
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsonyGUI\karacsonyGUI\bin\Debug\karacsonyGUI.pdb
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.csproj.AssemblyReference.cache
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.Form1.resources
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.Properties.Resources.resources
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.csproj.GenerateResource.cache
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.csproj.CoreCompileInputs.cache
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.exe
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.pdb
